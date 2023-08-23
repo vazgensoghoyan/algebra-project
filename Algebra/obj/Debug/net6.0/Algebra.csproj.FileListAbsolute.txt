@@ -1,0 +1,12 @@
+C:\Users\Acer\Desktop\прочее\продолжение-проекта\Algebra\bin\Debug\net6.0\Algebra.deps.json
+C:\Users\Acer\Desktop\прочее\продолжение-проекта\Algebra\bin\Debug\net6.0\Algebra.dll
+C:\Users\Acer\Desktop\прочее\продолжение-проекта\Algebra\bin\Debug\net6.0\Algebra.pdb
+C:\Users\Acer\Desktop\прочее\продолжение-проекта\Algebra\obj\Debug\net6.0\Algebra.csproj.AssemblyReference.cache
+C:\Users\Acer\Desktop\прочее\продолжение-проекта\Algebra\obj\Debug\net6.0\Algebra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Desktop\прочее\продолжение-проекта\Algebra\obj\Debug\net6.0\Algebra.AssemblyInfoInputs.cache
+C:\Users\Acer\Desktop\прочее\продолжение-проекта\Algebra\obj\Debug\net6.0\Algebra.AssemblyInfo.cs
+C:\Users\Acer\Desktop\прочее\продолжение-проекта\Algebra\obj\Debug\net6.0\Algebra.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\прочее\продолжение-проекта\Algebra\obj\Debug\net6.0\Algebra.dll
+C:\Users\Acer\Desktop\прочее\продолжение-проекта\Algebra\obj\Debug\net6.0\refint\Algebra.dll
+C:\Users\Acer\Desktop\прочее\продолжение-проекта\Algebra\obj\Debug\net6.0\Algebra.pdb
+C:\Users\Acer\Desktop\прочее\продолжение-проекта\Algebra\obj\Debug\net6.0\ref\Algebra.dll
